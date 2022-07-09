@@ -1,0 +1,11 @@
+C:\Users\Lorayne Durand\Desktop\C# VS\GUI_Tutorials\bin\Debug\GUI_Tutorials.exe.config
+C:\Users\Lorayne Durand\Desktop\C# VS\GUI_Tutorials\bin\Debug\GUI_Tutorials.exe
+C:\Users\Lorayne Durand\Desktop\C# VS\GUI_Tutorials\bin\Debug\GUI_Tutorials.pdb
+C:\Users\Lorayne Durand\Desktop\C# VS\GUI_Tutorials\obj\Debug\GUI_Tutorials.csproj.AssemblyReference.cache
+C:\Users\Lorayne Durand\Desktop\C# VS\GUI_Tutorials\obj\Debug\GUI_Tutorials.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lorayne Durand\Desktop\C# VS\GUI_Tutorials\obj\Debug\GUI_Tutorials.Properties.Resources.resources
+C:\Users\Lorayne Durand\Desktop\C# VS\GUI_Tutorials\obj\Debug\GUI_Tutorials.csproj.GenerateResource.cache
+C:\Users\Lorayne Durand\Desktop\C# VS\GUI_Tutorials\obj\Debug\GUI_Tutorials.csproj.CoreCompileInputs.cache
+C:\Users\Lorayne Durand\Desktop\C# VS\GUI_Tutorials\obj\Debug\GUI_Tutorials.exe
+C:\Users\Lorayne Durand\Desktop\C# VS\GUI_Tutorials\obj\Debug\GUI_Tutorials.pdb
+C:\Users\Lorayne Durand\Desktop\C# VS\GUI_Tutorials\obj\Debug\GUI_Tutorials.Form1.resources

@@ -1,0 +1,17 @@
+C:\Users\Lorayne Durand\Desktop\C# VS\GUI_Buttons\bin\Debug\net6.0-windows\GUI_Buttons.exe
+C:\Users\Lorayne Durand\Desktop\C# VS\GUI_Buttons\bin\Debug\net6.0-windows\GUI_Buttons.deps.json
+C:\Users\Lorayne Durand\Desktop\C# VS\GUI_Buttons\bin\Debug\net6.0-windows\GUI_Buttons.runtimeconfig.json
+C:\Users\Lorayne Durand\Desktop\C# VS\GUI_Buttons\bin\Debug\net6.0-windows\GUI_Buttons.dll
+C:\Users\Lorayne Durand\Desktop\C# VS\GUI_Buttons\bin\Debug\net6.0-windows\GUI_Buttons.pdb
+C:\Users\Lorayne Durand\Desktop\C# VS\GUI_Buttons\obj\Debug\net6.0-windows\GUI_Buttons.csproj.AssemblyReference.cache
+C:\Users\Lorayne Durand\Desktop\C# VS\GUI_Buttons\obj\Debug\net6.0-windows\GUI_Buttons.Form1.resources
+C:\Users\Lorayne Durand\Desktop\C# VS\GUI_Buttons\obj\Debug\net6.0-windows\GUI_Buttons.csproj.GenerateResource.cache
+C:\Users\Lorayne Durand\Desktop\C# VS\GUI_Buttons\obj\Debug\net6.0-windows\GUI_Buttons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lorayne Durand\Desktop\C# VS\GUI_Buttons\obj\Debug\net6.0-windows\GUI_Buttons.AssemblyInfoInputs.cache
+C:\Users\Lorayne Durand\Desktop\C# VS\GUI_Buttons\obj\Debug\net6.0-windows\GUI_Buttons.AssemblyInfo.cs
+C:\Users\Lorayne Durand\Desktop\C# VS\GUI_Buttons\obj\Debug\net6.0-windows\GUI_Buttons.csproj.CoreCompileInputs.cache
+C:\Users\Lorayne Durand\Desktop\C# VS\GUI_Buttons\obj\Debug\net6.0-windows\GUI_Buttons.dll
+C:\Users\Lorayne Durand\Desktop\C# VS\GUI_Buttons\obj\Debug\net6.0-windows\refint\GUI_Buttons.dll
+C:\Users\Lorayne Durand\Desktop\C# VS\GUI_Buttons\obj\Debug\net6.0-windows\GUI_Buttons.pdb
+C:\Users\Lorayne Durand\Desktop\C# VS\GUI_Buttons\obj\Debug\net6.0-windows\GUI_Buttons.genruntimeconfig.cache
+C:\Users\Lorayne Durand\Desktop\C# VS\GUI_Buttons\obj\Debug\net6.0-windows\ref\GUI_Buttons.dll

@@ -1,0 +1,18 @@
+C:\Users\Lorayne Durand\Desktop\C# VS\Sasquach Forest Farms Logistics\bin\Debug\net6.0-windows\Sasquach Forest Farms Logistics.exe
+C:\Users\Lorayne Durand\Desktop\C# VS\Sasquach Forest Farms Logistics\bin\Debug\net6.0-windows\Sasquach Forest Farms Logistics.deps.json
+C:\Users\Lorayne Durand\Desktop\C# VS\Sasquach Forest Farms Logistics\bin\Debug\net6.0-windows\Sasquach Forest Farms Logistics.runtimeconfig.json
+C:\Users\Lorayne Durand\Desktop\C# VS\Sasquach Forest Farms Logistics\bin\Debug\net6.0-windows\Sasquach Forest Farms Logistics.dll
+C:\Users\Lorayne Durand\Desktop\C# VS\Sasquach Forest Farms Logistics\bin\Debug\net6.0-windows\Sasquach Forest Farms Logistics.pdb
+C:\Users\Lorayne Durand\Desktop\C# VS\Sasquach Forest Farms Logistics\obj\Debug\net6.0-windows\Sasquach Forest Farms Logistics.csproj.AssemblyReference.cache
+C:\Users\Lorayne Durand\Desktop\C# VS\Sasquach Forest Farms Logistics\obj\Debug\net6.0-windows\Sasquach_Forest_Farms_Logistics.Form1.resources
+C:\Users\Lorayne Durand\Desktop\C# VS\Sasquach Forest Farms Logistics\obj\Debug\net6.0-windows\Sasquach Forest Farms Logistics.csproj.GenerateResource.cache
+C:\Users\Lorayne Durand\Desktop\C# VS\Sasquach Forest Farms Logistics\obj\Debug\net6.0-windows\Sasquach Forest Farms Logistics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lorayne Durand\Desktop\C# VS\Sasquach Forest Farms Logistics\obj\Debug\net6.0-windows\Sasquach Forest Farms Logistics.AssemblyInfoInputs.cache
+C:\Users\Lorayne Durand\Desktop\C# VS\Sasquach Forest Farms Logistics\obj\Debug\net6.0-windows\Sasquach Forest Farms Logistics.AssemblyInfo.cs
+C:\Users\Lorayne Durand\Desktop\C# VS\Sasquach Forest Farms Logistics\obj\Debug\net6.0-windows\Sasquach Forest Farms Logistics.csproj.CoreCompileInputs.cache
+C:\Users\Lorayne Durand\Desktop\C# VS\Sasquach Forest Farms Logistics\obj\Debug\net6.0-windows\Sasquach Forest Farms Logistics.dll
+C:\Users\Lorayne Durand\Desktop\C# VS\Sasquach Forest Farms Logistics\obj\Debug\net6.0-windows\refint\Sasquach Forest Farms Logistics.dll
+C:\Users\Lorayne Durand\Desktop\C# VS\Sasquach Forest Farms Logistics\obj\Debug\net6.0-windows\Sasquach Forest Farms Logistics.pdb
+C:\Users\Lorayne Durand\Desktop\C# VS\Sasquach Forest Farms Logistics\obj\Debug\net6.0-windows\Sasquach Forest Farms Logistics.genruntimeconfig.cache
+C:\Users\Lorayne Durand\Desktop\C# VS\Sasquach Forest Farms Logistics\obj\Debug\net6.0-windows\ref\Sasquach Forest Farms Logistics.dll
+C:\Users\Lorayne Durand\Desktop\C# VS\Sasquach Forest Farms Logistics\obj\Debug\net6.0-windows\Sasquach_Forest_Farms_Logistics.Form2.resources
